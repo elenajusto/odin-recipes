@@ -1,0 +1,40 @@
+/* Setting general colour scheme for all pages */
+
+body {
+    background-color: #05445E;
+}
+
+* {
+    color: #D4F1F4;
+    font-family: 'Verdana', sans-serif;
+    line-height: 1.5;
+}
+
+/* Styles all page titles */
+.page-title {
+    text-align: center;
+}
+
+/* Styles div elements that hold content or other visual elements */
+.container {
+    text-align: center;
+}
+
+/* Styles items within a list */
+.item-list {
+    display: inline-block;
+    text-align: left;
+}
+
+/* Remove underline from all links */
+a:link {
+    text-decoration: none;
+}
+
+/* */
+.img-food {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
